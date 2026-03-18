@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - feature/daniela_poblete
+      - feature/*
 
 jobs:
   deploy:
